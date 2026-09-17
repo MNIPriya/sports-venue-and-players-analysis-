@@ -1,0 +1,101 @@
+venue_id,venue_name,city,area,sport,number_of_courts,price_per_hour,court_type,venue_rating,opening_time,closing_time
+V001,Cricket Arena 001,Mumbai,Andheri,Cricket,4,2000,Indoor,4.1,06:00,21:00
+V002,Tennis Arena 002,Mumbai,Thane,Tennis,5,750,Indoor,4.2,08:00,22:00
+V003,Badminton Arena 003,Bengaluru,Whitefield,Badminton,4,750,Indoor,4.4,07:00,21:00
+V004,Table Tennis Arena 004,Hyderabad,Madhapur,Table Tennis,3,400,Outdoor,4.8,08:00,22:00
+V005,Tennis Arena 005,Hyderabad,Kondapur,Tennis,7,550,Indoor,3.9,08:00,23:00
+V006,Badminton Arena 006,Hyderabad,Kukatpally,Badminton,7,650,Outdoor,3.9,07:00,23:00
+V007,Cricket Arena 007,Bengaluru,Yelahanka,Cricket,4,1500,Indoor,5.0,08:00,21:00
+V008,Tennis Arena 008,Hyderabad,Gachibowli,Tennis,3,650,Outdoor,3.5,07:00,21:00
+V009,Tennis Arena 009,Bengaluru,Jayanagar,Tennis,5,600,Indoor,4.4,06:00,23:00
+V010,Tennis Arena 010,Mumbai,Thane,Tennis,5,500,Indoor,4.1,06:00,21:00
+V011,Cricket Arena 011,Bengaluru,Whitefield,Cricket,2,1750,Outdoor,3.8,08:00,21:00
+V012,Badminton Arena 012,Pune,Kothrud,Badminton,3,500,Outdoor,4.4,08:00,21:00
+V013,Badminton Arena 013,Bengaluru,Electronic City,Badminton,3,950,Indoor,3.8,07:00,23:00
+V014,Cricket Arena 014,Chennai,Velachery,Cricket,3,2100,Indoor,4.0,06:00,23:00
+V015,Table Tennis Arena 015,Bengaluru,Indiranagar,Table Tennis,7,400,Outdoor,4.3,07:00,22:00
+V016,Badminton Arena 016,Hyderabad,Gachibowli,Badminton,2,400,Indoor,3.4,07:00,21:00
+V017,Cricket Arena 017,Pune,Hinjewadi,Cricket,3,2250,Outdoor,4.5,07:00,21:00
+V018,Basketball Arena 018,Mumbai,Bandra,Basketball,3,950,Indoor,4.3,07:00,23:00
+V019,Tennis Arena 019,Mumbai,Powai,Tennis,3,650,Outdoor,4.5,08:00,22:00
+V020,Badminton Arena 020,Bengaluru,HSR Layout,Badminton,8,700,Indoor,4.4,08:00,23:00
+V021,Basketball Arena 021,Pune,Viman Nagar,Basketball,5,1150,Outdoor,4.2,08:00,22:00
+V022,Table Tennis Arena 022,Bengaluru,Electronic City,Table Tennis,2,300,Indoor,5.0,08:00,23:00
+V023,Tennis Arena 023,Hyderabad,Kondapur,Tennis,4,700,Outdoor,3.4,07:00,22:00
+V024,Table Tennis Arena 024,Bengaluru,Koramangala,Table Tennis,2,500,Indoor,5.0,07:00,22:00
+V025,Cricket Arena 025,Pune,Wakad,Cricket,5,1450,Outdoor,3.8,08:00,22:00
+V026,Badminton Arena 026,Hyderabad,Banjara Hills,Badminton,2,750,Outdoor,4.4,07:00,22:00
+V027,Badminton Arena 027,Bengaluru,Electronic City,Badminton,3,550,Indoor,4.1,08:00,22:00
+V028,Badminton Arena 028,Bengaluru,Indiranagar,Badminton,7,700,Indoor,3.8,08:00,21:00
+V029,Football Arena 029,Bengaluru,Marathahalli,Football,6,1500,Indoor,4.3,06:00,22:00
+V030,Basketball Arena 030,Bengaluru,Whitefield,Basketball,2,900,Indoor,4.2,08:00,23:00
+V031,Football Arena 031,Chennai,Anna Nagar,Football,7,1500,Indoor,3.8,07:00,23:00
+V032,Badminton Arena 032,Pune,Baner,Badminton,4,750,Outdoor,4.1,06:00,22:00
+V033,Badminton Arena 033,Bengaluru,Whitefield,Badminton,2,650,Outdoor,3.8,07:00,21:00
+V034,Badminton Arena 034,Chennai,Adyar,Badminton,8,650,Indoor,4.0,06:00,23:00
+V035,Badminton Arena 035,Mumbai,Powai,Badminton,2,450,Indoor,4.4,07:00,21:00
+V036,Badminton Arena 036,Pune,Wakad,Badminton,3,450,Indoor,4.3,08:00,23:00
+V037,Basketball Arena 037,Pune,Viman Nagar,Basketball,4,1100,Indoor,3.5,08:00,21:00
+V038,Table Tennis Arena 038,Hyderabad,Gachibowli,Table Tennis,4,450,Indoor,3.7,06:00,21:00
+V039,Badminton Arena 039,Hyderabad,Madhapur,Badminton,5,650,Outdoor,5.0,08:00,23:00
+V040,Table Tennis Arena 040,Bengaluru,Whitefield,Table Tennis,3,400,Indoor,3.7,08:00,21:00
+V041,Badminton Arena 041,Hyderabad,Gachibowli,Badminton,8,450,Outdoor,4.2,07:00,22:00
+V042,Badminton Arena 042,Bengaluru,Marathahalli,Badminton,6,700,Outdoor,3.9,06:00,21:00
+V043,Badminton Arena 043,Bengaluru,Whitefield,Badminton,2,650,Indoor,4.0,06:00,21:00
+V044,Table Tennis Arena 044,Chennai,Velachery,Table Tennis,6,400,Indoor,4.0,07:00,21:00
+V045,Cricket Arena 045,Bengaluru,Indiranagar,Cricket,4,1750,Indoor,4.5,08:00,23:00
+V046,Table Tennis Arena 046,Bengaluru,Jayanagar,Table Tennis,2,350,Outdoor,3.7,06:00,21:00
+V047,Badminton Arena 047,Hyderabad,Kukatpally,Badminton,3,650,Indoor,4.8,06:00,21:00
+V048,Badminton Arena 048,Bengaluru,Yelahanka,Badminton,2,600,Indoor,5.0,07:00,22:00
+V049,Football Arena 049,Chennai,Velachery,Football,4,1150,Outdoor,4.6,08:00,21:00
+V050,Badminton Arena 050,Bengaluru,Indiranagar,Badminton,5,500,Outdoor,4.2,07:00,22:00
+V051,Badminton Arena 051,Chennai,Anna Nagar,Badminton,8,600,Indoor,3.9,07:00,23:00
+V052,Badminton Arena 052,Bengaluru,Electronic City,Badminton,3,850,Indoor,3.1,08:00,21:00
+V053,Badminton Arena 053,Bengaluru,Electronic City,Badminton,2,600,Outdoor,3.8,08:00,23:00
+V054,Badminton Arena 054,Bengaluru,Jayanagar,Badminton,8,450,Outdoor,4.3,07:00,21:00
+V055,Football Arena 055,Bengaluru,Koramangala,Football,6,1200,Indoor,3.7,06:00,23:00
+V056,Badminton Arena 056,Hyderabad,Kondapur,Badminton,7,750,Outdoor,4.3,07:00,21:00
+V057,Table Tennis Arena 057,Bengaluru,Jayanagar,Table Tennis,7,350,Outdoor,3.1,06:00,22:00
+V058,Cricket Arena 058,Pune,Hinjewadi,Cricket,3,1850,Indoor,4.3,08:00,22:00
+V059,Badminton Arena 059,Bengaluru,Koramangala,Badminton,5,650,Outdoor,4.1,06:00,22:00
+V060,Cricket Arena 060,Mumbai,Bandra,Cricket,8,1800,Indoor,4.1,07:00,22:00
+V061,Cricket Arena 061,Chennai,OMR,Cricket,4,2000,Outdoor,4.6,07:00,21:00
+V062,Football Arena 062,Hyderabad,Banjara Hills,Football,2,1500,Indoor,4.2,08:00,21:00
+V063,Basketball Arena 063,Bengaluru,Jayanagar,Basketball,6,900,Indoor,3.8,07:00,22:00
+V064,Badminton Arena 064,Chennai,Anna Nagar,Badminton,4,450,Outdoor,4.4,06:00,21:00
+V065,Cricket Arena 065,Bengaluru,Koramangala,Cricket,2,2100,Outdoor,4.4,06:00,21:00
+V066,Badminton Arena 066,Bengaluru,Marathahalli,Badminton,8,850,Outdoor,4.4,07:00,22:00
+V067,Cricket Arena 067,Chennai,Velachery,Cricket,3,1850,Indoor,4.4,07:00,22:00
+V068,Badminton Arena 068,Hyderabad,Madhapur,Badminton,5,700,Indoor,4.3,07:00,22:00
+V069,Badminton Arena 069,Hyderabad,Gachibowli,Badminton,5,650,Outdoor,4.3,07:00,21:00
+V070,Badminton Arena 070,Pune,Baner,Badminton,7,550,Outdoor,4.1,06:00,22:00
+V071,Badminton Arena 071,Pune,Wakad,Badminton,8,650,Indoor,4.1,06:00,23:00
+V072,Cricket Arena 072,Bengaluru,Indiranagar,Cricket,4,1500,Indoor,3.9,07:00,22:00
+V073,Table Tennis Arena 073,Bengaluru,Electronic City,Table Tennis,4,400,Outdoor,4.4,08:00,21:00
+V074,Cricket Arena 074,Chennai,Anna Nagar,Cricket,5,1200,Indoor,3.4,07:00,21:00
+V075,Badminton Arena 075,Hyderabad,Gachibowli,Badminton,2,700,Outdoor,4.1,08:00,21:00
+V076,Badminton Arena 076,Bengaluru,Indiranagar,Badminton,5,550,Outdoor,3.7,06:00,23:00
+V077,Table Tennis Arena 077,Bengaluru,Yelahanka,Table Tennis,8,300,Indoor,4.5,06:00,21:00
+V078,Cricket Arena 078,Mumbai,Thane,Cricket,6,1450,Indoor,4.5,08:00,21:00
+V079,Badminton Arena 079,Mumbai,Borivali,Badminton,4,650,Outdoor,4.8,06:00,22:00
+V080,Tennis Arena 080,Mumbai,Borivali,Tennis,7,800,Indoor,4.2,07:00,22:00
+V081,Badminton Arena 081,Hyderabad,Gachibowli,Badminton,4,800,Outdoor,4.8,08:00,21:00
+V082,Cricket Arena 082,Hyderabad,Kondapur,Cricket,3,2050,Indoor,3.0,07:00,21:00
+V083,Badminton Arena 083,Mumbai,Andheri,Badminton,4,500,Indoor,4.5,07:00,23:00
+V084,Table Tennis Arena 084,Pune,Hinjewadi,Table Tennis,7,300,Outdoor,4.2,08:00,22:00
+V085,Tennis Arena 085,Hyderabad,Madhapur,Tennis,7,600,Outdoor,4.7,08:00,22:00
+V086,Basketball Arena 086,Bengaluru,Jayanagar,Basketball,6,1200,Outdoor,4.9,08:00,23:00
+V087,Table Tennis Arena 087,Chennai,Anna Nagar,Table Tennis,7,400,Outdoor,4.9,08:00,23:00
+V088,Badminton Arena 088,Chennai,Adyar,Badminton,4,650,Outdoor,3.9,08:00,21:00
+V089,Badminton Arena 089,Mumbai,Andheri,Badminton,3,650,Indoor,3.9,06:00,23:00
+V090,Badminton Arena 090,Bengaluru,HSR Layout,Badminton,2,600,Outdoor,4.5,08:00,23:00
+V091,Badminton Arena 091,Pune,Kothrud,Badminton,8,700,Indoor,4.6,06:00,22:00
+V092,Badminton Arena 092,Pune,Baner,Badminton,5,650,Outdoor,4.4,06:00,22:00
+V093,Tennis Arena 093,Hyderabad,Kondapur,Tennis,3,650,Indoor,4.4,07:00,22:00
+V094,Badminton Arena 094,Pune,Kothrud,Badminton,4,750,Indoor,4.4,08:00,21:00
+V095,Football Arena 095,Pune,Hinjewadi,Football,2,1450,Indoor,4.6,06:00,23:00
+V096,Tennis Arena 096,Bengaluru,Marathahalli,Tennis,4,650,Outdoor,3.7,06:00,21:00
+V097,Cricket Arena 097,Bengaluru,HSR Layout,Cricket,7,1650,Indoor,4.7,06:00,21:00
+V098,Badminton Arena 098,Mumbai,Powai,Badminton,2,600,Outdoor,4.3,06:00,21:00
+V099,Badminton Arena 099,Bengaluru,Marathahalli,Badminton,5,850,Indoor,3.9,08:00,21:00
+V100,Football Arena 100,Chennai,OMR,Football,7,1100,Indoor,3.6,06:00,21:00
